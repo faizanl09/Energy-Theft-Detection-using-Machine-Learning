@@ -95,14 +95,6 @@ The machine learning model is trained using the dataset to classify instances of
 
 ---
 
-## 👨‍💻 Author
-
-**Faizan L.**
-
-🔗 [GitHub Profile](https://github.com/faizanl09)
-
----
-
 ## 📎 License
 
 This project is open-source and available under the [MIT License](LICENSE).
